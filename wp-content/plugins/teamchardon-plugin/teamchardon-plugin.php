@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Society Magazine (Plugin spécifique)
-Description: Fonction diverses pour affichade des pubs, gestion des environnements, etc.
+Plugin Name: Team Chardon (Plugin spécifique)
+Description: Fonction diverses
 Version: 1.0
 Author: Gilles FRANCOIS
 Author URI: http://betterinternets.com
